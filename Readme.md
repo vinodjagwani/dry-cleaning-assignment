@@ -2,7 +2,7 @@
 
 ---
 
-This project calculate the guaranty time for the customer who will drop the cloths and will get the the cleaned clothes after give guaranty time.
+This project calculate the guaranty time for the customer who will drop the cloths and will get the the cleaned clothes after given guaranty time.
 
 #Get Started
 This application is based on maven project and using spring boot it can be run by maven command or directly invoking class "DryCleanGuarantyTimeApplication.java"
