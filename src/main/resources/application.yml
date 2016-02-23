@@ -1,0 +1,23 @@
+default:
+    openTime: "09:00"
+    closeTime: "15:00"
+
+logging:
+    level:
+        ROOT: INFO
+        com.drycleaning.assignment: DEBUG
+
+---
+
+spring:
+    profiles: "test"
+
+
+default:
+    openTime: "09:00"
+    closeTime: "15:00"
+
+logging:
+    level:
+        ROOT: INFO
+        com.drycleaning.assignment: DEBUG
